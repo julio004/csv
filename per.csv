@@ -1,0 +1,147 @@
+date, mac_count, company
+2019-02-01 19:00:00, 499, LG Electronics (Mobile Communications)
+2019-02-01 19:10:00, 665, Motorola Mobility LLC
+2019-02-01 20:00:00, 514, Apple
+2019-02-01 20:10:00, 519, Samsung Electronics Co
+2019-02-01 21:00:00, 510, Samsung Electronics Co
+2019-02-01 21:10:00, 372, Samsung Electronics Co
+2019-02-01 22:00:00, 377, Motorola Mobility LLC
+2019-02-01 22:10:00, 245, Samsung Electronics Co
+2019-02-01 23:00:00, 192, Samsung Electronics Co
+2019-02-01 23:10:00, 175, LG Electronics (Mobile Communications)
+2019-02-02 00:00:00, 142, Motorola Mobility LLC
+2019-02-02 00:10:00, 72, Apple
+2019-02-02 01:00:00, 64, Apple
+2019-02-02 01:10:00, 40, Apple
+2019-02-02 02:00:00, 35, Apple
+2019-02-02 02:10:00, 33, Motorola Mobility LLC
+2019-02-02 03:00:00, 29, Apple
+2019-02-02 03:10:00, 25, Apple
+2019-02-02 04:00:00, 23, Motorola Mobility LLC
+2019-02-02 04:10:00, 29, Apple
+2019-02-02 05:00:00, 26, Samsung Electronics Co
+2019-02-02 05:10:00, 35, Samsung Electronics Co
+2019-02-02 06:00:00, 29, Apple
+2019-02-02 06:10:00, 59, Motorola Mobility LLC
+2019-02-02 07:00:00, 73, Apple
+2019-02-02 07:10:00, 91, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-02 08:00:00, 122, Motorola Mobility LLC
+2019-02-02 08:10:00, 151, Motorola Mobility LLC
+2019-02-02 09:00:00, 245, Motorola Mobility LLC
+2019-02-02 09:10:00, 264, Samsung Electronics Co
+2019-02-02 10:00:00, 355, Motorola Mobility LLC
+2019-02-02 10:10:00, 417, Apple
+2019-02-02 11:00:00, 379, Samsung Electronics Co
+2019-02-02 11:10:00, 504, Apple
+2019-02-02 12:00:00, 486, Apple
+2019-02-02 12:10:00, 532, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-02 13:00:00, 511, Samsung Electronics Co
+2019-02-02 13:10:00, 450, Motorola Mobility LLC
+2019-02-02 14:00:00, 466, Motorola Mobility LLC
+2019-02-02 14:10:00, 547, Samsung Electronics Co
+2019-02-02 15:00:00, 523, Motorola Mobility LLC
+2019-02-02 15:10:00, 665, LG Electronics (Mobile Communications)
+2019-02-02 16:00:00, 677, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-02 16:10:00, 651, Samsung Electronics Co
+2019-02-02 17:00:00, 534, Samsung Electronics Co
+2019-02-02 17:10:00, 586, Motorola Mobility LLC
+2019-02-02 18:00:00, 473, Apple
+2019-02-02 18:10:00, 487, Samsung Electronics Co
+2019-02-02 19:00:00, 543, Motorola Mobility LLC
+2019-02-02 19:10:00, 590, Samsung Electronics Co
+2019-02-02 20:00:00, 473, Motorola Mobility LLC
+2019-02-02 20:10:00, 425, Motorola Mobility LLC
+2019-02-02 21:00:00, 522, Samsung Electronics Co
+2019-02-02 21:10:00, 379, Samsung Electronics Co
+2019-02-02 22:00:00, 319, HTC Corporation
+2019-02-02 22:10:00, 179, Samsung Electronics Co
+2019-02-02 23:00:00, 173, LG Electronics (Mobile Communications)
+2019-02-02 23:10:00, 128, Samsung Electronics Co
+2019-02-03 00:00:00, 75, Apple
+2019-02-03 00:10:00, 57, Motorola Mobility LLC
+2019-02-03 01:00:00, 54, Samsung Electronics Co
+2019-02-03 01:10:00, 32, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-03 02:00:00, 34, Apple
+2019-02-03 02:10:00, 32, Apple
+2019-02-03 03:00:00, 38, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-03 03:10:00, 31, Apple
+2019-02-03 04:00:00, 30, Apple
+2019-02-03 04:10:00, 31, Samsung Electronics Co
+2019-02-03 05:00:00, 29, Apple
+2019-02-03 05:10:00, 30, Apple
+2019-02-03 06:00:00, 32, Samsung Electronics Co
+2019-02-03 06:10:00, 56, Apple
+2019-02-03 07:00:00, 62, LG Electronics (Mobile Communications)
+2019-02-03 07:10:00, 76, Samsung Electronics Co
+2019-02-03 08:00:00, 99, LG Electronics (Mobile Communications)
+2019-02-03 08:10:00, 95, Apple
+2019-02-03 09:00:00, 141, Samsung Electronics Co
+2019-02-03 09:10:00, 176, Apple
+2019-02-03 10:00:00, 256, LG Electronics (Mobile Communications)
+2019-02-03 10:10:00, 322, Apple
+2019-02-03 11:00:00, 320, Apple
+2019-02-03 11:10:00, 390, Apple
+2019-02-03 12:00:00, 493, Motorola Mobility LLC
+2019-02-03 12:10:00, 541, Motorola Mobility LLC
+2019-02-03 13:00:00, 604, Apple
+2019-02-03 13:10:00, 625, Apple
+2019-02-03 14:00:00, 629, Motorola Mobility LLC
+2019-02-03 14:10:00, 736, Samsung Electronics Co
+2019-02-03 15:00:00, 792, Motorola Mobility LLC
+2019-02-03 15:10:00, 654, Motorola Mobility LLC
+2019-02-03 16:00:00, 679, Samsung Electronics Co
+2019-02-03 16:10:00, 699, Samsung Electronics Co
+2019-02-03 17:00:00, 685, Apple
+2019-02-03 17:10:00, 669, Motorola Mobility LLC
+2019-02-03 18:00:00, 602, Motorola Mobility LLC
+2019-02-03 18:10:00, 593, Samsung Electronics Co
+2019-02-03 19:00:00, 613, Motorola Mobility LLC
+2019-02-03 19:10:00, 510, Motorola Mobility LLC
+2019-02-03 20:00:00, 494, Samsung Electronics Co
+2019-02-03 20:10:00, 421, Samsung Electronics Co
+2019-02-03 21:00:00, 426, Motorola Mobility LLC
+2019-02-03 21:10:00, 284, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-03 22:00:00, 228, Samsung Electronics Co
+2019-02-03 22:10:00, 132, Apple
+2019-02-03 23:00:00, 101, Motorola Mobility LLC
+2019-02-03 23:10:00, 72, Motorola Mobility LLC
+2019-02-04 00:00:00, 42, Apple
+2019-02-04 00:10:00, 37, Apple
+2019-02-04 01:00:00, 24, Apple
+2019-02-04 01:10:00, 23, Apple
+2019-02-04 02:00:00, 25, Apple
+2019-02-04 02:10:00, 21, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 03:00:00, 22, Apple
+2019-02-04 03:10:00, 20, Apple
+2019-02-04 04:00:00, 20, Motorola Mobility LLC
+2019-02-04 04:10:00, 20, Apple
+2019-02-04 05:00:00, 21, Apple
+2019-02-04 05:10:00, 22, LG Electronics (Mobile Communications)
+2019-02-04 06:00:00, 34, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 06:10:00, 42, HTC Corporation
+2019-02-04 07:00:00, 61, Samsung Electronics Co
+2019-02-04 07:10:00, 74, Samsung Electronics Co
+2019-02-04 08:00:00, 119, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 08:10:00, 121, Apple
+2019-02-04 09:00:00, 153, Apple
+2019-02-04 09:10:00, 261, Apple
+2019-02-04 10:00:00, 314, Motorola Mobility LLC
+2019-02-04 10:10:00, 456, Samsung Electronics Co
+2019-02-04 11:00:00, 399, Motorola Mobility LLC
+2019-02-04 11:10:00, 523, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 12:00:00, 459, Samsung Electronics Co
+2019-02-04 12:10:00, 516, Samsung Electronics Co
+2019-02-04 13:00:00, 578, LG Electronics (Mobile Communications)
+2019-02-04 13:10:00, 598, Motorola Mobility LLC
+2019-02-04 14:00:00, 713, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 14:10:00, 671, Samsung Electronics Co
+2019-02-04 15:00:00, 677, Motorola Mobility LLC
+2019-02-04 15:10:00, 640, Motorola Mobility LLC
+2019-02-04 16:00:00, 695, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 16:10:00, 796, Samsung Electronics Co
+2019-02-04 17:00:00, 665, Motorola Mobility LLC
+2019-02-04 17:10:00, 674, Samsung Electronics Co
+2019-02-04 18:00:00, 640, SAMSUNG ELECTRO-MECHANICS(THAILAND)
+2019-02-04 18:10:00, 544, Motorola Mobility LLC
+2019-02-04 19:00:00, 597, Samsung Electronics Co
+2019-02-04 19:10:00, 206, Samsung Electronics Co
